@@ -1,16 +1,18 @@
-## Hi there 👋
+# Salvatore Prochilo GitHub Homepage
 
-<!--
-**ZippoCode/ZippoCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Thesis Work
+* [Document Image Binarization using Fast Fourier Convolution](https://github.com/ZippoCode/DocumentImageBinarization)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## University Projects
+* [Computer Vision and Cognitive System](https://github.com/ZippoCode/project_vcs)
+* [Search Movies Website](https://github.com/ZippoCode/searchfilm)
+* [Data Integration](https://github.com/ZippoCode/Tesina-Data-Integration)
+
+# University Courses
+* [Multimedia Data Processing](https://github.com/ZippoCode/mdp)
+* [Computer Foundaments](https://github.com/ZippoCode/FdI)
+* [Pattern Recognition and Machine Learning](https://github.com/ZippoCode/Patter-Recognition-Machine-Learning)
+* [Systems and Web Application](https://github.com/ZippoCode/SAR)
+* [Big Data Analysis](https://github.com/ZippoCode/Big-Data-Analysis)
+  
