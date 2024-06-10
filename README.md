@@ -3,7 +3,7 @@
 ### Who am I?
 Qualified software engineer with three years of experience consulting with clients seeking a machine learning engineer position where I can apply my deep learning knowledge to research, design, implementation, training, and evaluation of models.
 
-# On working
+### On working
 * [EnitaLingo](https://github.com/ZippoCode/EnItaLingo): An English-Italian Neural Machine Translator 
 
 ### Thesis Work
